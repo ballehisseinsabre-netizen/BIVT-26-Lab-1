@@ -6,7 +6,9 @@ namespace Lab1
         {
             bool answer = false;
 
-            // code here
+            if (d > 0 ) 
+                answer = true;
+            retur answer:
 
             // end
 
